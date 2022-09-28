@@ -1,12 +1,4 @@
-## Treasure Map
-
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
+## Treasure Map - Try it! https://replit.com/@operator19/treasure-map#main.py
 
 ![](https://cdn.fs.teachablecdn.com/wiFJAkZZSG2RpGsxYgDO)
 # Instructions
@@ -85,4 +77,4 @@ e.g. When you hit **run**, this is what should happen:
 
 # Solution
 
-[https://repl.it/@appbrewery/day-4-3-solution](https://repl.it/@appbrewery/day-4-3-solution)
+https://replit.com/@operator19/treasure-map#main.py
